@@ -1,0 +1,16 @@
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\bin\Debug\net8.0-windows\PRACTICA 11.exe
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\bin\Debug\net8.0-windows\PRACTICA 11.deps.json
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\bin\Debug\net8.0-windows\PRACTICA 11.runtimeconfig.json
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\bin\Debug\net8.0-windows\PRACTICA 11.dll
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\bin\Debug\net8.0-windows\PRACTICA 11.pdb
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA_11.Form1.resources
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.AssemblyInfoInputs.cache
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.AssemblyInfo.cs
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.dll
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\obj\Debug\net8.0-windows\refint\PRACTICA 11.dll
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.pdb
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\obj\Debug\net8.0-windows\PRACTICA 11.genruntimeconfig.cache
+C:\Users\jesus\source\repos\PRACTICA 11\PRACTICA 11\obj\Debug\net8.0-windows\ref\PRACTICA 11.dll
