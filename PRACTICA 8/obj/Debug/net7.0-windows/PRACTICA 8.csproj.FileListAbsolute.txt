@@ -1,0 +1,16 @@
+C:\Users\Alumnos\Desktop\PRACTICA 8\bin\Debug\net7.0-windows\PRACTICA 8.exe
+C:\Users\Alumnos\Desktop\PRACTICA 8\bin\Debug\net7.0-windows\PRACTICA 8.deps.json
+C:\Users\Alumnos\Desktop\PRACTICA 8\bin\Debug\net7.0-windows\PRACTICA 8.runtimeconfig.json
+C:\Users\Alumnos\Desktop\PRACTICA 8\bin\Debug\net7.0-windows\PRACTICA 8.dll
+C:\Users\Alumnos\Desktop\PRACTICA 8\bin\Debug\net7.0-windows\PRACTICA 8.pdb
+C:\Users\Alumnos\Desktop\PRACTICA 8\obj\Debug\net7.0-windows\PRACTICA_8.Form1.resources
+C:\Users\Alumnos\Desktop\PRACTICA 8\obj\Debug\net7.0-windows\PRACTICA 8.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\PRACTICA 8\obj\Debug\net7.0-windows\PRACTICA 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Desktop\PRACTICA 8\obj\Debug\net7.0-windows\PRACTICA 8.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Desktop\PRACTICA 8\obj\Debug\net7.0-windows\PRACTICA 8.AssemblyInfo.cs
+C:\Users\Alumnos\Desktop\PRACTICA 8\obj\Debug\net7.0-windows\PRACTICA 8.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\PRACTICA 8\obj\Debug\net7.0-windows\PRACTICA 8.dll
+C:\Users\Alumnos\Desktop\PRACTICA 8\obj\Debug\net7.0-windows\refint\PRACTICA 8.dll
+C:\Users\Alumnos\Desktop\PRACTICA 8\obj\Debug\net7.0-windows\PRACTICA 8.pdb
+C:\Users\Alumnos\Desktop\PRACTICA 8\obj\Debug\net7.0-windows\PRACTICA 8.genruntimeconfig.cache
+C:\Users\Alumnos\Desktop\PRACTICA 8\obj\Debug\net7.0-windows\ref\PRACTICA 8.dll
